@@ -1,3 +1,7 @@
+package edu.mateus.aula1;
+
+import edu.mateus.aula1.SmartTv;
+
 public class Usuario {
 
     public static void main(String[] args) {
